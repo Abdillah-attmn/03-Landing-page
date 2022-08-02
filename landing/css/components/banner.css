@@ -1,0 +1,21 @@
+div{
+  display: block;
+}
+
+.banner{
+  background-image: url('../../images/background.png');
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.container{
+  color: white;
+}
+
+.bttn-apply{
+  color: white;
+  padding: 16px 36px;
+  border-radius: 50px;
+  background: #1eDD88;
+}
